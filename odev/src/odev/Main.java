@@ -3,8 +3,8 @@ package odev;
 public class Main {
 
 	public static void main(String[] args) {
-		 Courses cours1=new Courses(1, "C#+Angular", "Engin Demiroğ");
-		 Courses cours2=new Courses(2,"Java+React","Engin Demiroğ");
+		 Courses cours1=new Courses(1, "C#+Angular", "Engin DemiroÄŸ");
+		 Courses cours2=new Courses(2,"Java+React","Engin DemiroÄŸ");
 		 
 		 Courses[] cours= {cours1,cours2};
 		 
